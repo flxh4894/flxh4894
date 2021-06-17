@@ -2,6 +2,10 @@
 #### DoWon Lee @flxh4894
 ```
 Flutter&Dart, Javascript, Typescript에 관심이 많아요 😄  
+모든 Repository가 public이 아닙니다...💦
+
+
+👇자세한 내용은 아래 Notion Portfolio에서 확인 부탁드립니다.
 ```
   ###
   [![Notion Badge](https://img.shields.io/badge/Notion_Portfolio-black?logo=notion)](https://www.notion.so/4f1850273beb47a8a8089bc79ab98287)
