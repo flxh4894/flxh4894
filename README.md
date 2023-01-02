@@ -1,9 +1,8 @@
 ### 안녕하세요👋
-#### DoWon Lee @flxh4894
+현재 <a href="https://www.quantit.io" target="_blank"> Quantit </a>에서 Front-end 개발자로 일을 하고 있습니다. 
 ```
-Flutter&Dart, Javascript, Typescript에 관심이 많아요 😄  
-모든 Repository가 public이 아닙니다...💦
-
+Flutter&Dart 개발을 위주로 합니다.
+Python, Typescript를 이용한 작업을 즐겨 하고 있습니다.  
 
 👇자세한 내용은 아래 Notion Portfolio에서 확인 부탁드립니다.
 ```
@@ -14,7 +13,6 @@ Flutter&Dart, Javascript, Typescript에 관심이 많아요 😄
   ###
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=flxh4894)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flxh4894&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
 ---  
 #### 🚩 Flutter로 제작한 앱
 [❤나의가계부 - Apps on Google Play](https://play.google.com/store/apps/details?id=com.polymorph.account_book)
